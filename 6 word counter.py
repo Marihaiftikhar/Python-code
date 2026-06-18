@@ -1,0 +1,8 @@
+text = input("enter a paragraph:")
+words = text.split()
+word_count = len(words)
+sentence_count = text.count(".") + text.count("!")+ text.count("?")
+character_count = len(text)
+print("word count:",word_count)
+print("sentence count:",sentence_count)
+print("character count:",character_count)
