@@ -1,0 +1,9 @@
+Ali: Hello
+Sara: Hi
+Ali: How are you?
+Sara: I am fine.
+Ali: What are you doing?
+Mehak: I am studying.
+Ali: Great!
+Sara: Bye
+Ali: See you tomorrow.
